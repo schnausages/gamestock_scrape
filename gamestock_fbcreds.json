@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gamestock-3383f",
+  "private_key_id": "444ec1621d600dc3fa4a577e57110342421d2ce1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDqat2KfBO1x3YR\n0yBbtxwhk949faoXvTwgOa//c6/X1X2xiQWPg8hh/iAlRAeLpO2d9haEGiF5Ee5u\nTzYuh3Udf7wS9SpWJW69OT/HMPXOqNHsJjaQDSaISFkPAgGFR+vNkjKJObOPkVx+\nbuIgzO5dg4T+YUP/WLSol0rky2AwpQIKBDx6M6gJprcFnhCwbpp2YUAIHg2CTuPe\nmvOP/fuVE7OXFOz6msBF3G2soCS0Yn81vPJBQbnK+2omRaf1K30MwAsf/BVxvU4P\nBhS8ObLGbRcnjCgqiubkDOE48xWYHgBggF4z8eaaj8DEbi9ZyiazlCj1N1IHMnqC\nzF/XqogVAgMBAAECggEAAz1yZBrBgTd9EsSmuI5rJUsgXQijXZS/kA7Y/FfYGRF4\nrBuS3NoVKG4KIUfiah9CK0qprJWjfdcJIJsTGUanmhI4HW673W85Dg6vCAumSmtQ\n0NsPW21QVdsAI6loEhbk6hpDkNJCj2JNv7mygdq+9psKNBnQaJ0zveJChk0AA3QV\nVAzk2W0hAIcMqyPxMhZoeYFksgy41ok1AlfCAw216YUvM4ind4BCOWSU02vP0sP5\n8WVPM/u1LoAXFO/COdd7lrlyftlPuK5naIAJ7/RTTWQC5qesgjlgOnWIW7RxMg7G\nK05Ay+tybUxbPuwsFUlf0CMwN1sMNpTohx9vo9aHqQKBgQD4NWrZ2uh0p8o/q0n+\n97/z+oy6krMs5mdPtBo9lQfsSts2DQ5Uusgd8v8C2aG7XuRRITBYC0BgGujiYz9F\nGwG99IGLvujGMtvP4EcFyvpH1+YqH1uVBy4PGPBmo1Y9Xr8RIykaayMh9Ma9MLKw\na4So6Q9FvovWSoZ3amUIBO2AKQKBgQDxxp99ZBj5r0Wt6hrBcexTBGnyKtM4mmnf\nhem3Ulnp9oizguG1OO1p1BziTIGiGfHqwZytlc9H7A0a1V6Mcbt4ZLKRfdZOAMuQ\nok6mVVgVthV+RUt9tF2iMTEbY+mf2RKx48H3ZwT2/g4JHMvpvPY3iq4uBfrn4c/x\noTBDHsuWDQKBgBtPbVlZL9ieGa/VvgeS5QkIWXGx8IsRMu7fJz/9ZOjH98TDvP7v\nqlM5SHvczGHceAzBNRuK6WNpspQuTWjiJtfqzlI9CEm+kNcXm1j004MSK14ZIy+L\nobLBkLoKYNPR1/4fu0cP4Ma8sx1f/VlSCz+2nRqUc7h5bMA48bLnL+a5AoGBANRj\nWknJe9Mi8EAFzfkvPZ3z26n7is9Hfkf4GEaNViUcCBxBlksfNhfoWHNHJ/2hcw15\nhUxLtOoGZ8CxvTv80OXC98atV2vwcOKeYh7mC9oOuTTSZK2Jm1NWiT/5dgqQo0aX\nwBW4bvkWVngUzuCGuXgzIC2X3UCD8qrdoUrlK4ylAoGBAKj5ZyVgjtwqQ7o487zC\n5987grFrIVtd/PDibVxt7jo2YaBsYadS+gdjnDQYylkyrBKTL9Gc4rxIBT8j8A/V\nKNS9VDhOitCN0KhzYbAcFU/JGwmkuNCmOeC+MPEovMNbiK7oRWX6pO/gqjxrrFYi\nmv6XXebLtHuZzMaxykLUcxFU\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-isukt@gamestock-3383f.iam.gserviceaccount.com",
+  "client_id": "102421623456121316221",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-isukt%40gamestock-3383f.iam.gserviceaccount.com"
+}
