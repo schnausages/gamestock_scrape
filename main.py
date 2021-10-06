@@ -59,11 +59,4 @@ def get_reddit():
         #TESTING REMOVE
         # db.collection(u'games').document.update({'scores':FieldValue.arrayRemove([-1:-4])})
 
-def testFunction():
-    print('!??!?!?! RUNNING TEST FUNCKIOTONT !?!?!??!?')
-    db.collection(u'games').document(f'TEST GAME').set({
-        u'game':'TEST DUTY 4',
-        u'scores':[41,55,32,21,20]
-    }, merge = True)
 get_reddit()
-testFunction()
