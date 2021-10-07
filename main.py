@@ -5,12 +5,15 @@ from google.cloud import firestore as fs
 import os
 from datetime import datetime
 from textblob import TextBlob
-from flask import Flask, jsonify, make_response
 import praw
 from praw.models import MoreComments
 import statistics
 
 # app = Flask(__name__)
+
+#youtube api
+# https://www.youtube.com/watch?v=TE66McLMMEw
+
 
 THIS_FOLDER = os.path.dirname(os.path.abspath(__file__))
 my_file = os.path.join(THIS_FOLDER, 'gamestock_fbcreds.json')
@@ -47,11 +50,11 @@ def get_reddit():
                 
         if len(comment_list) > 2:
             scores_avg = statistics.mean(comment_list)
+            scores_avg_round = round(scores_avg,0)
+            scores_avg_int = int(scores_avg_round)
             data = {
                 u'game': each,
-                u'scores': fs.ArrayUnion([scores_avg]),
-
-                # u'scores': firestore.FieldValue.arrayUnion(scores_avg),
+                u'scores': fs.ArrayUnion([scores_avg_int]),
             }
             db.collection(u'games').document(f'{each}').set(data, merge = True)
         else:
